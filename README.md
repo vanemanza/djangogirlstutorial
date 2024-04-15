@@ -20,4 +20,4 @@ Si has participado como mentora en un taller de Django Girls y deseas contribuir
 ### Contacto
 Si tienes preguntas, comentarios o sugerencias sobre este tutorial, no dudes en contactarme a través de correo electrónico.
 
-Ir al Blog ---> https://djangogirlstutorial.pythonanywhere.com/
+Ir al Blog ---> https://tutorialbyvanedjangogirls.pythonanywhere.com/
